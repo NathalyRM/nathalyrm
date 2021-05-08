@@ -7,4 +7,4 @@ ___
 es la opcion que debe de `elejir`
 
 
-[Enlace de la web](https://nathalyrm.github.io)
+[Enlace de la web](https://nathalyrm.github.io/nathalyrm)
